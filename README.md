@@ -32,8 +32,6 @@ running.
 
 * docker-compose up
 * Use the qa dev yml to connect the postgres  connection
-* The method taskArticle in the IArticleService is executed every hour and That method populate the
-  database
 * Swagger http://localhost:50315/swagger-ui/index.html
 
 # Api
